@@ -83,8 +83,7 @@
 
 /* ХЕДЕР */
 .header {
-  min-block-size: 100vh;
-  min-height: 668px;
+  min-height: 100vh;
   display: grid;
   grid-template-rows: min-content min-content min-content;
 }
@@ -215,8 +214,7 @@
 
 /* ФУТЕР */
 .footer {
-  min-block-size: 100vh;
-  min-height: 668px;
+  min-height: 100vh;
   padding: 10px;
   display: grid;
   place-items: center;

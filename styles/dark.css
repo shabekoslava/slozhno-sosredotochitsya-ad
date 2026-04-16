@@ -1,12 +1,11 @@
 :root.theme-dark {
-  --background-color: #000028;
-  --text-color: #f1b2ce;
-  --main-title-color: #db00ff;
-  --main-title-shadow-color: #ff0070;
-  --btn-color: #ff0070;
+  --text-color: rgba(241, 178, 206, 1);
+  --main-title-color: rgba(219, 0, 255, 1);
+  --main-title-shadow-color: rgba(255, 0, 112, 1);
+  --btn-color: rgba(255, 0, 112, 1);
   --btn-hover-color: rgba(255, 0, 112, 0.4);
-  --title-color: #000028;
-  --title-background-color: #ff0070;
+  --title-color: rgba(0, 0, 40, 1);
+  --title-background-color: rgba(255, 0, 112, 1);
   --links-shadow-color: #ff0070;
   --title-wtht-bcgrd-color: rgba(255, 0, 112, 1);
   --image-background: url("../images/cover-image-dark.png");

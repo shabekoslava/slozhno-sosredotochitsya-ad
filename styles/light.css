@@ -18,7 +18,6 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: #fff1f7;
     --text-color: #353430;
     --main-title-color: #ffc2e6;
     --main-title-shadow-color: #ff8dcb;
