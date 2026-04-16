@@ -1,0 +1,16 @@
+:root {
+  --font: "IBM Plex Mono", monospace;
+  --font-size: clamp(1.125rem, 1.125rem + 0vw, 1.125rem);
+
+  --background-color: #000028;
+  --text-color: #f1b2ce;
+  --main-title-color: #db00ff;
+  --main-title-shadow-color: #ff0070;
+  --btn-color: #ff0070;
+  --btn-hover-color: rgba(255, 0, 112, 0.4);
+  --title-color: #000028;
+  --title-background-color: #ff0070;
+  --links-shadow-color: #ff0070;
+  --title-wtht-bcgrd-color: rgba(255, 0, 112, 1);
+  --image-background: url("../images/cover-image-dark.png");
+}

@@ -1,0 +1,17 @@
+:root.theme-dark {
+  --background-color: #000028;
+  --text-color: #f1b2ce;
+  --main-title-color: #db00ff;
+  --main-title-shadow-color: #ff0070;
+  --btn-color: #ff0070;
+  --btn-hover-color: rgba(255, 0, 112, 0.4);
+  --title-color: #000028;
+  --title-background-color: #ff0070;
+  --links-shadow-color: #ff0070;
+  --title-wtht-bcgrd-color: rgba(255, 0, 112, 1);
+  --image-background: url("../images/cover-image-dark.png");
+}
+
+:root.theme-dark .header__rec {
+  display: flex;
+}
