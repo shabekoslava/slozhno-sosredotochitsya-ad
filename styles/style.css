@@ -8,13 +8,15 @@
   background-position: center;
   background-attachment: fixed;
   min-inline-size: 320px;
+  line-height: 23.4px;
 }
 
 /* Жирный текст на цветном фоне */
 .title-decor {
   background-color: var(--title-background-color);
   color: var(--title-color);
-  font-weight: 700;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 /* Обычный текст на цветном фоне */
@@ -28,7 +30,7 @@
 /* Жирный текст без фона */
 .title-decor-3 {
   color: var(--title-wtht-bcgrd-color);
-  font-weight: 700;
+  font-weight: bold;
   font-size: 18px;
 }
 
